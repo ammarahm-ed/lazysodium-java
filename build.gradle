@@ -55,7 +55,7 @@ test {
 // Dependencies
 dependencies {
     implementation 'net.java.dev.jna:jna:5.17.0'
-    implementation 'com.goterl:resource-loader:2.1.0'
+    implementation 'com.github.ammarahm-ed:resource-loader:edb1519a89c966cdad07299289e30ce61be6c2a9'
     implementation "org.slf4j:slf4j-api:2.0.17"
     testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.12.2'
     testRuntimeOnly 'org.junit.platform:junit-platform-engine:1.12.2'
